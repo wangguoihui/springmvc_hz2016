@@ -4150,3 +4150,8 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 [DEBUG] [2016-10-02 23:28:40][com.cn.hnust.dao.IUserDao.selectCourseForUser]<====      Total: 4
 [DEBUG] [2016-10-02 23:28:40][com.cn.hnust.dao.IUserDao.selectByConditon2]<==      Total: 1
 [INFO] [2016-10-02 23:28:40][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@2e3fe12e: startup date [Sun Oct 02 23:28:37 CST 2016]; root of context hierarchy
+[INFO] [2016-10-02 23:31:02][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2016-10-02 23:31:02][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@2e3fe12e: startup date [Sun Oct 02 23:31:02 CST 2016]; root of context hierarchy
+[INFO] [2016-10-02 23:31:02][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from URL [file:/G:/code/android/springmvc_hz2016/spring-master/target/classes/application.properties]
+[INFO] [2016-10-02 23:31:02][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-10-02 23:31:03][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@2e3fe12e: startup date [Sun Oct 02 23:31:02 CST 2016]; root of context hierarchy
